@@ -1,6 +1,6 @@
 ## Snake Game in Java
 
---A simple implementation of classic snake game in java. This project features:
+**A simple implementation of classic snake game in java. This project features:**
 
 1.Grid-based gameplay with adjustable tile size and board size.
 
@@ -14,7 +14,7 @@
 
 6.Smooth graphics rendering using Java's Graphics and Timer classes.
 
---This project aims to demonstrate basic game development concepts like collision detection, input handling, and real-time rendering in Java.
+> This project aims to demonstrate basic game development concepts like collision detection, input handling, and real-time rendering in Java.
 
 ## Folder Structure
 
